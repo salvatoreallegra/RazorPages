@@ -24,7 +24,7 @@ Visual Studio or Visual Studio Code
 
 ### Steps
 
-   **Clone the Repository and open index.html**  
+   **Clone the Repository and run the solution**  
    Use the following command to clone the repository to your local machine:
    ```bash
    git clone https://github.com/salvatoreallegra/RazorPages.git
